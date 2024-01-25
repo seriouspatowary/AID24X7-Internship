@@ -14,8 +14,11 @@ Node.js as the runtime environment.
 ![Screenshot from 2024-01-24 21-00-41](https://github.com/seriouspatowary/AID24X7-Internship/assets/84088321/d1e41776-1958-44bb-a913-617a8f59f6a1)
 
 ![Screenshot from 2024-01-24 21-00-50](https://github.com/seriouspatowary/AID24X7-Internship/assets/84088321/a89d3f60-7b18-4bac-810a-b027a79c62b9)
+![cart](https://github.com/seriouspatowary/AID24X7-Internship/assets/84088321/00f467c3-70ff-43ce-b026-395e7d38b4a1)
 
 
+
+![checkout](https://github.com/seriouspatowary/AID24X7-Internship/assets/84088321/76e6c704-1c6e-40cb-a1b6-a1b9d44668da)
 
 
 
